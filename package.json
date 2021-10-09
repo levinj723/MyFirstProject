@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/levinj723/MyFirstProject/issues"
   },
-  "homepage": "https://github.com/levinj723/MyFirstProject#readme"
+  "homepage": "https://github.com/levinj723/MyFirstProject#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.2"
+  }
 }
